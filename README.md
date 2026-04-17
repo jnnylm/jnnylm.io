@@ -1,4 +1,4 @@
-![Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-blue)
 
 #CS-215
 
