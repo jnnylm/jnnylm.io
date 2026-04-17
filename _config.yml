@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: Jenny Lim Portfolio
-description: CS215 Learning Log and Final Project Ideas
+title: Jenny Lim Data Science Portfolio
+
+header_pages:
+  - final-project.md
