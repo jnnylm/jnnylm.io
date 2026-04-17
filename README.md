@@ -1,8 +1,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-blue)
 
-## CS-215
+# 📊 My Data Science Portfolio
 
-Jenny Lim
+Welcome! This portfolio showcases my work in CS215, including learning logs and my final project.
+
 ---
 
-## Final Project Ideas
+## 🚀 Projects
+
+- [Final Project](final-project.md)
+
+---
+
+## 🧠 Learning Logs
