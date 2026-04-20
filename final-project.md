@@ -1,5 +1,3 @@
-# 🚀 Final Project: Self Data Analysis
-
 # Final Project Ideas
 
 ## Overview
