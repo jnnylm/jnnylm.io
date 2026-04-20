@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: mmistakes/minimal-mistakes
 title: Jenny Lim Data Science Portfolio
 
 header_pages:
