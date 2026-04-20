@@ -113,10 +113,3 @@ Instagram is the social media platform I use most frequently. This project will 
 - Instagram data export (<span style="color: green;"><b>DATA READY</b></span>)
 
 ---
-
-## Next Steps
-- Select one primary dataset for deep analysis
-- Clean and preprocess the data
-- Perform exploratory data analysis (EDA)
-- Create visualizations and insights
-- Build a polished GitHub Pages presentation
