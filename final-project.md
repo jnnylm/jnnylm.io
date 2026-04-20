@@ -5,7 +5,7 @@ This project explores patterns in my personal digital behavior using multiple da
 
 ---
 
-## 1. ChatGPT Usage Analysis
+## 1. ChatGPT
 
 ### Idea / Topic
 I use ChatGPT frequently for a wide range of tasks, making it one of the tools I rely on most in my daily life. This project will explore patterns in how I use ChatGPT, including frequency of use, types of tasks (coding, writing, brainstorming, grammar), and how my usage changes over time.
@@ -26,7 +26,7 @@ I use ChatGPT frequently for a wide range of tasks, making it one of the tools I
 
 ---
 
-## 2. Spotify Listening Behavior
+## 2. Spotify
 
 ### Idea / Topic
 Spotify provides detailed listening data, including streaming history, artists, genres, and timestamps. This project will analyze how my music preferences evolve over time and whether listening habits vary based on time of day or daily routines.
@@ -64,7 +64,7 @@ My browsing activity is concentrated on a few key platforms (e.g., school tools,
 
 ---
 
-## 4. Rummikub Gameplay Analysis
+## 4. Rummikub
 
 ### Idea / Topic
 I have played Rummikub over 3,000 times, making it an interesting dataset for analyzing gameplay strategy and performance.
@@ -92,7 +92,7 @@ Players must first create an initial meld totaling at least 30 points.
 
 ---
 
-## 5. Instagram Activity Analysis
+## 5. Instagram
 
 ### Idea / Topic
 Instagram is the social media platform I use most frequently. This project will analyze my activity patterns, including time spent, feature usage (posts, stories, reels, DMs), and how my interaction network evolves over time.
