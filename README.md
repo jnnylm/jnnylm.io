@@ -14,5 +14,5 @@ Welcome! This portfolio showcases my work in CS215, including learning logs and 
 
 ## 🧠 Learning Logs
 
-- [Learning Log wk 10](learning-log10.md)
+- [Learning Log Wk 10](learning-log10.md)
 - [Learning Log Wk 11](learning-log11.md)
