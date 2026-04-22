@@ -8,7 +8,7 @@ Welcome! This portfolio showcases my work in CS215, including learning logs and 
 
 ## 🚀 Projects
 
-- [Final Project](final-project.md)
+- [Final Project Ideas](final-project-ideas.md)
 
 ---
 
