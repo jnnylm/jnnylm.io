@@ -1,4 +1,4 @@
-# Week 10 Update – Project Setup
+# Week 10 Update
 
 ## Project Overview
 
