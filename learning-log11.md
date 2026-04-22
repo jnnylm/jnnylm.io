@@ -1,13 +1,16 @@
 # Week 11 Update
 
+---
 ## Data Source Selection
 
 For my final project, I chose to work with my personal ChatGPT usage data. I selected this dataset because it directly reflects my own study habits, workflow, and interaction patterns with AI tools. Since I frequently use ChatGPT for a variety of tasks, analyzing this data allows me to explore meaningful behavioral trends over time.
 
+---
 ## Data Acquisition
 
 I successfully obtained my dataset by requesting my data through the ChatGPT platform. The data was provided in a JSON format, containing a full history of my interactions.
 
+---
 ## Motivation and Provenance
 
 This dataset was originally created by OpenAI as part of the normal operation of the ChatGPT system to support and improve user interactions. It was not designed for a specific research purpose or academic study.
@@ -20,6 +23,7 @@ Key provenance considerations:
 
 Because of this, the dataset is highly authentic but not structured for analysis.
 
+---
 ## Composition of the Dataset
 
 The dataset represents a complete record of my ChatGPT interactions rather than a sample. However, it is still limited in scope because it only captures AI-assisted activities.
@@ -36,6 +40,7 @@ Limitations in composition:
 - Possible redundancy from repeated prompts
 - Some conversations may be incomplete or fragmented
 
+---
 ## Appropriate and Inappropriate Uses
 
 Appropriate uses:
@@ -47,6 +52,7 @@ Inappropriate uses:
 - Generalizing findings to all ChatGPT users
 - Making objective judgments about productivity or performance
 
+---
 ## Preliminary Exploratory Analysis
 
 During initial exploration in Google Colab, I observed:
@@ -58,6 +64,7 @@ During initial exploration in Google Colab, I observed:
 
 These findings confirmed that preprocessing will be a critical step before meaningful analysis can begin.
 
+---
 ## Data Cleaning and Wrangling
 
 ### What I Have Done So Far:
@@ -77,6 +84,7 @@ These findings confirmed that preprocessing will be a critical step before meani
 - Session grouping (based on time gaps between messages)
 - Prompt categorization (e.g., coding, writing, brainstorming)
 
+---
 ## Strengths and Limitations
 
 ### Strengths:
@@ -89,6 +97,7 @@ These findings confirmed that preprocessing will be a critical step before meani
 - Lacks explicit context or intent behind prompts
 - Only reflects AI-assisted work, not overall productivity
 
+---
 ## Challenges and Roadblocks
 
 One of the main challenges I encountered is the complexity of the dataset structure. Unlike CSV files with clearly defined columns, this dataset is deeply nested, making it difficult to interpret and organize.
@@ -101,6 +110,7 @@ Specific challenges include:
 
 These issues have made the preprocessing stage more time-consuming than expected.
 
+---
 ## Summary
 
 Overall, I successfully selected and obtained my dataset and began preliminary exploration. I identified key structural challenges and outlined the necessary steps for cleaning and feature engineering. Moving forward, my main focus will be transforming the data into a usable format and creating meaningful features for analysis.
