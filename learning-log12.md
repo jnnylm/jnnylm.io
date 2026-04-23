@@ -2,6 +2,8 @@
 
 This week, I created an updated section on my project website to summarize my analysis so far and add an interactive visualization using Plotly.
 
+---
+
 ## Analysis Completed So Far
 
 I have explored several aspects of my ChatGPT usage data, including usage by hour, daily usage over time, monthly trends, prompt length distribution, and task categories. Together, these analyses help build a clearer picture of how and when I use ChatGPT.
