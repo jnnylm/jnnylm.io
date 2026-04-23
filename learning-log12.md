@@ -50,6 +50,16 @@ I have explored several aspects of my ChatGPT usage data, including usage by hou
 
 ---
 
+### ChatGPT usage Heatmap
+
+- ChatGPT Usage Heatmap
+The heatmap reveals that my ChatGPT usage is not evenly distributed, but instead concentrated in specific time blocks throughout the week. One clear pattern is that I use ChatGPT much less on weekends overall. However, there is a noticeable spike around 12 AM on Saturday, which likely reflects working slightly past a typical Friday 11:59 PM deadline.
+- During weekdays, there are strong clusters of activity in the early morning, particularly around 5–6 AM on Monday and Friday. Since I do not use ChatGPT much over the weekend, the spike on Monday morning suggests that I use it to catch up, check if I am missing anything, or prepare for the upcoming week.
+- I also tend to use ChatGPT frequently in the evening, especially between 8–10 PM. This pattern aligns with common assignment deadlines, indicating that my usage increases as deadlines approach.
+
+<iframe src="heatmap.html" width="100%" height="500"></iframe>
+
+---
 ## Visualization
 
 I embedded an interactive Plotly visualization in this section of the website to better illustrate one of these patterns. This allows for more detailed exploration of how my usage changes across time rather than relying only on static summaries.
