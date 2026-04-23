@@ -60,6 +60,15 @@ The heatmap reveals that my ChatGPT usage is not evenly distributed, but instead
 <iframe src="heatmap.html" width="100%" height="500"></iframe>
 
 ---
+
+### Correlation between prompt length and response length
+
+- The key value is the correlation between prompt_length and response_length is 0.235979. The correlation of 0.236 indicates a weak positive relationship between prompt length and response length. This means longer prompts tend to produce slightly longer responses, but the effect is small. Prompt length is not a strong predictor of response length and short prompts can still generate long answers, while longer prompts may result in brief responses depending on how specific or constrained they are.
+  
+<iframe src="prompt_vs_response.html" width="100%" height="500"></iframe>
+
+
+---
 ## Visualization
 
 I embedded an interactive Plotly visualization in this section of the website to better illustrate one of these patterns. This allows for more detailed exploration of how my usage changes across time rather than relying only on static summaries.
