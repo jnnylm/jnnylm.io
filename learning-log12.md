@@ -46,10 +46,13 @@ I have explored several aspects of my ChatGPT usage data, including usage by hou
 
 <iframe src="category.html" width="100%" height="500"></iframe>
 
+---
 
 ## Visualization
 
 I embedded an interactive Plotly visualization in this section of the website to better illustrate one of these patterns. This allows for more detailed exploration of how my usage changes across time rather than relying only on static summaries.
+
+---
 
 ## Reflection
 
