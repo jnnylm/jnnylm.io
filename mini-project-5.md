@@ -1,6 +1,7 @@
 # Mini Project 5
 
-## Hypothesis: Professor Wirfs-Brock's movement pattern shows a statistically significant shift from long-distance travel during her travel days between Denver, Seattle, and Walla Walla, to low-distance, highly localized movement once she is in Walla Walla on March 10.
+## Hypothesis: 
+- Professor Wirfs-Brock's movement pattern shows a statistically significant shift from long-distance travel during her travel days between Denver, Seattle, and Walla Walla, to low-distance, highly localized movement once she is in Walla Walla on March 10.
 
 ---
 
