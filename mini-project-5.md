@@ -3,7 +3,6 @@
 ## Hypothesis: 
 - Professor Wirfs-Brock's movement pattern shows a statistically significant shift from long-distance travel during her travel days between Denver, Seattle, and Walla Walla, to low-distance, highly localized movement once she is in Walla Walla on March 10.
   
-<br>
 
 ---
 
@@ -16,7 +15,6 @@ Distance from Olin Hall Over Time (Global Movement)
 
 ---
 
-<br>
 
 ### Visualization 2
 
@@ -26,7 +24,6 @@ Distance from Olin Hall (Walla Walla Only Zoom-In)
 <iframe src="distance_in_walla.html" width="100%" height="500"></iframe>
 
 ---
-<br>
 
 ### Visualization 3
 
@@ -37,8 +34,6 @@ Mapbox Visualization of Movement in Walla Walla
 <iframe src="line_in_walla.html" width="100%" height="500"></iframe>
 
 ---
-
-<br>
 
 ## Conclusion
 
