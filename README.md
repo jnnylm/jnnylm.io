@@ -10,6 +10,7 @@ Welcome! This portfolio showcases my work in CS215, including learning logs and 
 
 - [Final Project Ideas](final-project-ideas.md)
 - [Mini Project 5](mini-project-5.md)
+- [Final Project](final-project.md)
 
 ---
 
